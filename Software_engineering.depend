@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1735418776 source:c:\users\dell\desktop\software_engineering\main.cpp
+	<iostream>
+	<vector>
+	<memory>
+	<map>
+	<random>
+	<string>
+	<algorithm>
+
